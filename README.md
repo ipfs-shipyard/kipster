@@ -6,4 +6,4 @@ A hackable knowledge base for the decentralised web.
 
 Looking to get involved?
 
-All the [research & planning is under `docs/README.md`](docs/README.md).
+All the [research & planning is under `docs/README.md`](doc/README.md).
